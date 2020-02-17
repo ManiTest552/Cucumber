@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[user is already on Login Page]]>
+    </line>
+    <line>
+      <![CDATA[User name entered]]>
+    </line>
+    <line>
+      <![CDATA[title verified]]>
+    </line>
+    <line>
+      <![CDATA[Close  browser method execued]]>
+    </line>
+    <line>
+      <![CDATA[user is already on Login Page]]>
+    </line>
+    <line>
+      <![CDATA[User name entered]]>
+    </line>
+    <line>
+      <![CDATA[title verified]]>
+    </line>
+    <line>
+      <![CDATA[Close  browser method execued]]>
+    </line>
+    <line>
+      <![CDATA[user is already on Login Page]]>
+    </line>
+    <line>
+      <![CDATA[User name entered]]>
+    </line>
+    <line>
+      <![CDATA[title verified]]>
+    </line>
+    <line>
+      <![CDATA[Close  browser method execued]]>
+    </line>
+  </reporter-output>
+  <suite name="Cucumber" duration-ms="131854" started-at="2020-02-17T10:48:05Z" finished-at="2020-02-17T10:50:17Z">
+    <groups>
+      <group name="cuucmber">
+        <method signature="Runner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="feature" class="com.testRunner.Runner"/>
+      </group> <!-- cuucmber -->
+    </groups>
+    <test name="Microwave" duration-ms="131854" started-at="2020-02-17T10:48:05Z" finished-at="2020-02-17T10:50:17Z">
+      <class name="com.testRunner.Runner">
+        <test-method status="PASS" signature="setUPclass()[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="setUPclass" is-config="true" duration-ms="498" started-at="2020-02-17T16:18:05Z" finished-at="2020-02-17T16:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUPclass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="feature" duration-ms="130998" started-at="2020-02-17T16:18:06Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-02-17T16:20:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Checking Login with Data driven appraoch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[user is already on Login Page]]>
+            </line>
+            <line>
+              <![CDATA[User name entered]]>
+            </line>
+            <line>
+              <![CDATA[title verified]]>
+            </line>
+            <line>
+              <![CDATA[Close  browser method execued]]>
+            </line>
+            <line>
+              <![CDATA[user is already on Login Page]]>
+            </line>
+            <line>
+              <![CDATA[User name entered]]>
+            </line>
+            <line>
+              <![CDATA[title verified]]>
+            </line>
+            <line>
+              <![CDATA[Close  browser method execued]]>
+            </line>
+            <line>
+              <![CDATA[user is already on Login Page]]>
+            </line>
+            <line>
+              <![CDATA[User name entered]]>
+            </line>
+            <line>
+              <![CDATA[title verified]]>
+            </line>
+            <line>
+              <![CDATA[Close  browser method execued]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClss()[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="tearDownClss" is-config="true" duration-ms="55" started-at="2020-02-17T16:20:17Z" finished-at="2020-02-17T16:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClss -->
+      </class> <!-- com.testRunner.Runner -->
+    </test> <!-- Microwave -->
+  </suite> <!-- Cucumber -->
+</testng-results>

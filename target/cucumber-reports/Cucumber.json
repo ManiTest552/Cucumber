@@ -1,0 +1,224 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Checkm Login with Dynamic Data",
+        "description": "",
+        "id": "checking-login-with-data-driven-appraoch;checkm-login-with-dynamic-data",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14743490300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "When user is at loginpage",
+            "match": {
+              "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6492578200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user entered \"demomu@TMobMicrowave.onmicrosoft.com\" and \"4u2change!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "demomu@TMobMicrowave.onmicrosoft.com",
+                  "offset": 14
+                },
+                {
+                  "val": "4u2change!",
+                  "offset": 57
+                }
+              ],
+              "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18205198200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify title",
+            "match": {
+              "location": "Dtat_Driven_Login.verify_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3100808699,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "close the driver",
+            "match": {
+              "location": "Dtat_Driven_Login.close_the_driver()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Checkm Login with Dynamic Data",
+        "description": "",
+        "id": "checking-login-with-data-driven-appraoch;checkm-login-with-dynamic-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17878591699,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "When user is at loginpage",
+            "match": {
+              "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6214503300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user entered \"demomu@TMobMicrowave.onmicrosoft.com\" and \"4u2change!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "demomu@TMobMicrowave.onmicrosoft.com",
+                  "offset": 14
+                },
+                {
+                  "val": "4u2change!",
+                  "offset": 57
+                }
+              ],
+              "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20082098900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Verify title",
+            "match": {
+              "location": "Dtat_Driven_Login.verify_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3071231001,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "close the driver",
+            "match": {
+              "location": "Dtat_Driven_Login.close_the_driver()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Checkm Login with Dynamic Data",
+        "description": "",
+        "id": "checking-login-with-data-driven-appraoch;checkm-login-with-dynamic-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11169601601,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "When user is at loginpage",
+            "match": {
+              "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6970127000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user entered \"demomu@TMobMicrowave.onmicrosoft.com\" and \"4u2change!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "demomu@TMobMicrowave.onmicrosoft.com",
+                  "offset": 14
+                },
+                {
+                  "val": "4u2change!",
+                  "offset": 57
+                }
+              ],
+              "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19822249900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Verify title",
+            "match": {
+              "location": "Dtat_Driven_Login.verify_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3074332599,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "close the driver",
+            "match": {
+              "location": "Dtat_Driven_Login.close_the_driver()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Checking Login with Data driven appraoch",
+    "description": "",
+    "id": "checking-login-with-data-driven-appraoch",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/features/LoginDatadriven.feature"
+  }
+]
