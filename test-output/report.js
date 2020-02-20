@@ -38,7 +38,7 @@ formatter.match({
   "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
 });
 formatter.result({
-  "duration": 14743490300,
+  "duration": 8192182199,
   "status": "passed"
 });
 formatter.match({
@@ -55,21 +55,21 @@ formatter.match({
   "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 6492578200,
+  "duration": 4014021501,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.verify_title()"
 });
 formatter.result({
-  "duration": 18205198200,
+  "duration": 11560723600,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.close_the_driver()"
 });
 formatter.result({
-  "duration": 3100808699,
+  "duration": 3126870699,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -169,7 +169,7 @@ formatter.match({
   "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
 });
 formatter.result({
-  "duration": 17878591699,
+  "duration": 5373471000,
   "status": "passed"
 });
 formatter.match({
@@ -186,21 +186,21 @@ formatter.match({
   "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 6214503300,
+  "duration": 4264725000,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.verify_title()"
 });
 formatter.result({
-  "duration": 20082098900,
+  "duration": 11581888899,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.close_the_driver()"
 });
 formatter.result({
-  "duration": 3071231001,
+  "duration": 3124407800,
   "status": "passed"
 });
 formatter.scenario({
@@ -239,7 +239,7 @@ formatter.match({
   "location": "Dtat_Driven_Login.when_user_is_at_loginpage()"
 });
 formatter.result({
-  "duration": 11169601601,
+  "duration": 5621396600,
   "status": "passed"
 });
 formatter.match({
@@ -256,21 +256,21 @@ formatter.match({
   "location": "Dtat_Driven_Login.user_entered_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 6970127000,
+  "duration": 3313392900,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.verify_title()"
 });
 formatter.result({
-  "duration": 19822249900,
+  "duration": 10034919100,
   "status": "passed"
 });
 formatter.match({
   "location": "Dtat_Driven_Login.close_the_driver()"
 });
 formatter.result({
-  "duration": 3074332599,
+  "duration": 3121265300,
   "status": "passed"
 });
 });

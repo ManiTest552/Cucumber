@@ -38,19 +38,19 @@
       <![CDATA[Close  browser method execued]]>
     </line>
   </reporter-output>
-  <suite name="Cucumber" duration-ms="131854" started-at="2020-02-17T10:48:05Z" finished-at="2020-02-17T10:50:17Z">
+  <suite name="Cucumber" duration-ms="74482" started-at="2020-02-17T12:31:22Z" finished-at="2020-02-17T12:32:36Z">
     <groups>
       <group name="cuucmber">
-        <method signature="Runner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="feature" class="com.testRunner.Runner"/>
+        <method signature="Runner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@62452cc9]" name="feature" class="com.testRunner.Runner"/>
       </group> <!-- cuucmber -->
     </groups>
-    <test name="Microwave" duration-ms="131854" started-at="2020-02-17T10:48:05Z" finished-at="2020-02-17T10:50:17Z">
+    <test name="Microwave" duration-ms="74482" started-at="2020-02-17T12:31:22Z" finished-at="2020-02-17T12:32:36Z">
       <class name="com.testRunner.Runner">
-        <test-method status="PASS" signature="setUPclass()[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="setUPclass" is-config="true" duration-ms="498" started-at="2020-02-17T16:18:05Z" finished-at="2020-02-17T16:18:06Z">
+        <test-method status="PASS" signature="setUPclass()[pri:0, instance:com.testRunner.Runner@62452cc9]" name="setUPclass" is-config="true" duration-ms="528" started-at="2020-02-17T18:01:22Z" finished-at="2020-02-17T18:01:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUPclass -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="feature" duration-ms="130998" started-at="2020-02-17T16:18:06Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-02-17T16:20:17Z">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.Runner@62452cc9]" name="feature" duration-ms="73531" started-at="2020-02-17T18:01:22Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-02-17T18:02:36Z">
           <params>
             <param index="0">
               <value>
@@ -97,7 +97,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClss()[pri:0, instance:com.testRunner.Runner@2bd2b28e]" name="tearDownClss" is-config="true" duration-ms="55" started-at="2020-02-17T16:20:17Z" finished-at="2020-02-17T16:20:17Z">
+        <test-method status="PASS" signature="tearDownClss()[pri:0, instance:com.testRunner.Runner@62452cc9]" name="tearDownClss" is-config="true" duration-ms="72" started-at="2020-02-17T18:02:36Z" finished-at="2020-02-17T18:02:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClss -->

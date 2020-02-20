@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="130.824811">
-<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data" time="42.542075">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="73.329265">
+<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data" time="26.893798">
 <system-out><![CDATA[Given When user is at loginpage.............................................passed
 When user entered "demomu@TMobMicrowave.onmicrosoft.com" and "4u2change!"...passed
 Then Verify title...........................................................passed
 And close the driver........................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data" time="47.246425">
+<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data" time="24.344493">
 <system-out><![CDATA[Given When user is at loginpage.............................................passed
 When user entered "demomu@TMobMicrowave.onmicrosoft.com" and "4u2change!"...passed
 Then Verify title...........................................................passed
 And close the driver........................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data 2" time="41.036311">
+<testcase classname="Checking Login with Data driven appraoch" name="Checkm Login with Dynamic Data 2" time="22.090974">
 <system-out><![CDATA[Given When user is at loginpage.............................................passed
 When user entered "demomu@TMobMicrowave.onmicrosoft.com" and "4u2change!"...passed
 Then Verify title...........................................................passed
